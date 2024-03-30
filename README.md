@@ -1,6 +1,9 @@
 # Arm Control
 
-Different control schemes applied to a 7-dof robotic arm to learn control theory.
+To learn control theory, we methodically evaluate and compare different control schemes applied to a 7-dof robotic arm, focusing on stability, accuracy, responsiveness, efficiency, adaptability, etc. to ensure a thorough understanding of each method's performance and applicability.
+
+
+
 
 ## Controllers
 
